@@ -39,7 +39,7 @@ t=(mm + "/" + dd + "/" + yyyy + " " + hour + ":" + mi + ":" + ss)
 
 hours = (now.hour)
 x = datetime.datetime.now()
-g= datetime.datetime(2023, 5, 1, 12, 10 ,9)
+g= datetime.datetime(2023, 5, 10, 12, 10 ,9)
 
 
 if (x.strftime("%x"))>(g.strftime("%x")):
@@ -562,7 +562,7 @@ class Main:
 		self.loop = 0
 
 		print(logo)
-		print(" \033[1;32m[1]  تم التفعيل اداه صيد عشوائي فرع 2")
+		print(" \033[1;32m[1] تم التفعيل صيد عشوائي فرع 2")
 		#print(" \033[1;32m[2] صيد 2006 فقط")
 		print("\033[1;31m [E] خروج \n")
 		UZAIR =input(" \033[1;33mاختار رقم : ")
