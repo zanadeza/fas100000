@@ -1,6 +1,4 @@
 import webbrowser	
-webbrowebbrowser.open('https://t.me/nader20090')	
-#wser.open('https://t.me/nader20090')	
 print('\033[1;32m')
 print('-----------------------------------------------------------')
 print('                           \033[1;31mN\033[1;32mA\033[1;33mD\033[1;34mE\033[1;35mR\033[1;32m')
@@ -56,6 +54,7 @@ if (x.strftime("%x"))>(g.strftime("%x")):
  exit()
  open(".token.txt", "w").write(' . . . .')
  print(x)
+webbrowser.open('https://t.me/nader20090')	
 W = '\033[97;1m'
 R = '\033[91;1m'
 G = '\033[92;1m'
