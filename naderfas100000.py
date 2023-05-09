@@ -1,6 +1,6 @@
-#import webbrowser	
-#webbrowebbrowser.open('https://t.me/nader20090')	
-wser.open('https://t.me/nader20090')	
+import webbrowser	
+webbrowebbrowser.open('https://t.me/nader20090')	
+#wser.open('https://t.me/nader20090')	
 print('\033[1;32m')
 print('-----------------------------------------------------------')
 print('                           \033[1;31mN\033[1;32mA\033[1;33mD\033[1;34mE\033[1;35mR\033[1;32m')
