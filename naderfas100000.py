@@ -1,5 +1,5 @@
-import webbrowser	
-webbrowebbrowser.open('https://t.me/nader20090')	
+#import webbrowser	
+#webbrowebbrowser.open('https://t.me/nader20090')	
 wser.open('https://t.me/nader20090')	
 print('\033[1;32m')
 print('-----------------------------------------------------------')
